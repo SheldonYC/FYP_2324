@@ -1,11 +1,12 @@
 # Job analysis
 ### Aim
-- To find distribution of salary across different industry
-- To find skills required by high-paying jobs or competitive company
-- To identify dream jobs
+- Provide meals advices based on user vocal prompt
+- Speech-to-text-to-speech language model
+- Natural experience with virtual avatar and lip sync
 
 ### Methodology
-- NETjobs portal scraping, matching with glassdoor for salary data
-- Indeed.com, JobsDB, jijis for more jobs requirements
+- Fine-tuning open source large language model (LLaMA2)
+- Whisper model to transcribe vocal prompts
+- Response with virtual avatar animated with Rive and Flutter
 
 
