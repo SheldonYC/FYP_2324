@@ -1,4 +1,8 @@
 # HKU Catering Voice Assistant Project
+
+### Introduction Video
+https://github.com/user-attachments/assets/bfc26e72-9b8e-47a5-ac92-26efc347f23e
+
 ### Problem
 - Inefficient presentation of catering information on the HKU website, making it hard for students to search and filter options.
 - No existing solution integrates vocal input into question-answering agents for the closed domain.
